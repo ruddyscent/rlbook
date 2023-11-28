@@ -1,2 +1,2 @@
 # rlbook
-exercise solutions for "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto
+Exercise solutions for "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto
