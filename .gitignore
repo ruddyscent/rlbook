@@ -1,3 +1,6 @@
+.jupyter/
+.local/
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,vim,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,vim,visualstudiocode
 
